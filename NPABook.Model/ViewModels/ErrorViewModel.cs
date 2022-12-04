@@ -1,6 +1,6 @@
 using System;
 
-namespace NPABookStore.Models
+namespace NPABookStore.Models.ViewModels
 {
     public class ErrorViewModel
     {

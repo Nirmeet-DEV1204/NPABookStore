@@ -4,7 +4,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace NPABookStore.Data
+namespace NPABookStore.DataAccess.Data
 {
     public class ApplicationDbContext : IdentityDbContext
     {
