@@ -187,6 +187,13 @@ HTTP delete whith delete method in category.js
 user Toster aND sWEET aLERT
 
 
+8/12/2022
+Created Index with displays books available 
+But there is problem with image displays on home menu 
+Rest of the project work properly 
+And done with this project 
+
+
 
 
 
